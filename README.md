@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: quadrilingual(Mandarin, Cantonese, French, English), 2y studied and worked in Nantes, French
 
-![Fabriceli's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriceli)
+![Fabriceli's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriceli&show_icons=true)
            
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fabriceli)
 
