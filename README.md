@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 📚 Coder/Open Source Contributor.
 - 🌱 Currently learning Kubernetes, Cloud Native and AI.
 - 🔭 I’m currently working on IGWFMC.
-- 📫 How to reach me: yihao.li.cn@hotmail.com
+- 📫 How to reach me: fabriceli@apache.org
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: quadrilingual(Mandarin, Cantonese, French, English), 2y studied and worked in Nantes, French
 
